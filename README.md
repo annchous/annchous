@@ -7,7 +7,7 @@ This repository was created to say to you that...
 - 🐈‍⬛ I'm a member of a wonderful [Kysect](https://github.com/kysect) community :3
 - 📚 I’m currently studying at ITMO University <3
 - 🌱 In 2021-2022 years I was mentoring "Object-Oriented Programming" and "Programming Technologies" course in ITMO University
-- 📫 You can reach me here: https://t.me/annchous
+- 📫 You can reach me here: https://t.me/annchouss
 
 I have no idea on how these stats could be useful for you, my guests, but I'm just a stats-lover, so these badges are placed here:
 
